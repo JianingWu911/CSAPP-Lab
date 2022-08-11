@@ -4,7 +4,7 @@ Directions to Students
 ***********************
 
 Your goal is to modify your copy of bits.c so that it passes all the
-tests in btest without violating(Υ��) any of the coding guidelines.
+tests in btest without violating(Î¥·´) any of the coding guidelines.
 
 
 *********
@@ -137,6 +137,4 @@ Example usages:
     Normalized.  +1.8135598898 X 2^(-126)
 
 
-Test
-modify
 
